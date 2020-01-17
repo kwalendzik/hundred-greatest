@@ -1,8 +1,9 @@
-# Hundred::Greatest
+## HundredGreatest
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/hundred/greatest`. To experiment with that code, run `bin/console` for an interactive prompt.
+Welcome to 100 Years…100 Movies - 
+The American Film Institute's 100 Greatest American Movies Of All Time
 
-TODO: Delete this and the text above, and describe your gem
+This CLI based gem lists the ranked films and gives the user the option to read a synopsis of each.
 
 ## Installation
 
